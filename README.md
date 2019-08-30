@@ -1,4 +1,10 @@
 # hello-world
-My first official Repository
-So this is my first Repository as a Git and Github noob
-Yup
+Nier: Automata Themed Webiste in progress.
+
+Nier: Automata is an action role-playing game developed by PlatinumGames and published by Square Enix. The game was released for the PlayStation 4 and Microsoft Windows in early 2017, with an Xbox One port later in June 2018
+
+Making a basic static website
+
+2B 
+9S
+A2
