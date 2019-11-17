@@ -4,7 +4,13 @@
 } else {
     txt = "You pressed Cancel!";
 }*/
+$("example").slideDown();
+// ISSUE
+/* IMPORTANT
+SO different FILES WONT ALLOW ME TO PUT THE INFO I WANT
+I HAVE TO FIGURE OUT WHAT FILES DO, APPEARS THAT THE ORIGINAL ONES DO..
 
+IM TIRED SO ILL FIGURE THIS OUT LATER */
 /*
 Have to figure out the order of the sub pages
 Home, Characters and Abilities is what we 
@@ -32,3 +38,30 @@ re host
 eventually use a database for actual info recieve
 put on githib/resume
 */
+
+/*
+<section id="boxes">
+              <div class="container">
+                <div class="box">
+                    <img src = "https://misfitkarma.com/image/291931-full_download-nier-automata-cosplay-hd-1080p-wallpaper-1920x1080.jpg"
+                    style ="width: 900px; height: 300px">
+                </section>
+              </div>
+              <section id="boxes">
+                <div class="container">
+                  <div class="box">
+                      <img src = "https://misfitkarma.com/image/291931-full_download-nier-automata-cosplay-hd-1080p-wallpaper-1920x1080.jpg"
+                      style ="width: 900px; height: 450px">
+                  </section>
+                </div>
+
+                <aside id="sidebar">
+          <div class="dark">
+            <h3>What does 2B do ?</h3>
+            <p>2B is an attack unit named as, Type: 2 Battltion, but in realitty she is, a Type: 2E, a special
+              type of Battle Unit known as, 2 Executioner. 
+            2B is an execurtioner model, whos sole purpose is to hunt and kill 9S everytime he regains his memories. </p>
+          </div>
+        </aside>
+
+                */
